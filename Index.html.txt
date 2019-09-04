@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+ <html>
+  <head>
+    <meta charset="utf-8">
+    <style>
+       table {
+       border:1px solid;
+       width:500px;
+       border-collapse:colapse;
+       }
+       table td {
+       text-align:center;  
+       border 1px solid;
+       }
+       th {
+       font-family: Arial;
+       font-weight: normal;
+       font-variant: small-caps;
+       }
+       td {
+       font-family: Times;
+       font-weight: normal;
+       font-variant: normal;
+       }
+       tr: nth-child(2) td_nht-child(1) {
+       background-color: #FFFFFF;
+       }
+       tr: nth-child(3) td_nht-child(1) {
+       background-color: #E6E6E6;
+       }
+       tr: nth-child(4) td_nht-child(1) {
+       background-color: ##CCCCCC;
+       }
+       tr: nth-child(5) td_nht-child(1) {
+       background-color: #B3B3B3;
+       }
+       tr: nth-child(6) td_nht-child(1) {
+       background-color: #999999;
+       }
+       tr: nth-child(7) td_nht-child(1) {
+       background-color: #808080;
+       }
+       tr: nth-child(8) td_nht-child(1) {
+       background-color: #666666;
+       }
+       tr: nth-child(9) td_nht-child(1) {
+       background-color: #4C4C4C;
+       }
+       tr: nth-child(10) td_nht-child(1) {
+       background-color: #333333;
+       }
+       tr: nth-child(11) td_nht-child(1) {
+       background-color: #191919;
+       }
+       thumbnail {
+       width:100px;height:100px;
+       }
+    </style>
+    <title>Escala de Mosh</title>
+ <head>
+ <body>
+  <table=class "tabla">
+   <tr>
+      <th>Dureza</th>
+      <th>Mineral</th>
+      <th>Se raya con / raya a</th>
+   <tr>
+      <td><b>1</b></td>
+      <td><a href="Talco.jpg" title="Talco" class="thumbnail"></a></td>
+      <td>Se puede rayar fácilmente con la uña</td>
+  </tr>
+  <tr>
+      <td><b>2</b></td>
+      <td><a href="Yeso.jpg" title="Yeso" class="thumbnail"></a></td>
+      <td>Se puede rayar con la uña con más dificultad</td>
+  </tr>
+  <tr>
+      <td><b>3</b></td>
+      <td><a href="Calcita.jpg" title="Calcita" class="thumbnail"></a></td>
+      <td>Se puede rayar con una moneda de Cobre</td>
+  </tr>
+  <tr>
+      <td><b>4</b></td>
+      <td><a href="Fluorita.jpg" title="Fluorita" class="thumbnail"></a></td>
+      <td>Se puede rayar con un cuchillo de Acero</td>
+  </tr>
+  <tr>
+      <td><b>5</b></td>
+      <td><a href="Apatito.jpg" title="Apatito" class="thumbnail"></a></td>
+      <td>Se puede rayar difícilmente con un cuchillo</td>
+  </tr>
+  <tr>
+      <td><b>6</b></td>
+      <td><a href="Ortosa.jpg" title="Ortosa" class="thumbnail"></a></td>
+      <td>Se puede rayar con una lija para el acero</td>
+  </tr>
+  <tr>
+      <td><span style="color: white;"><b>7</b></span></td>
+      <td><a href="Cuarzo.jpg" title="Cuarzo" class="thumbnail"></a></td>
+      <td>Raya el vidrio</td>
+  </tr>
+  <tr>
+      <td><span style="color: white;"><b>8</b></span></td>
+      <td><a href="Topacio.jpg" title="Topacio" class="thumbnail"></a></td>
+      <td>Rayado por herramientas de carburo de wolframio</td>
+  </tr>
+  <tr>
+      <td><span style="color: white;"><b>9</b></span></td>
+      <td><a href="Corindon.jpg" title="Corindón" class="thumbnail"></a></td>
+      <td>Rayado por herramientas de carburo de silicio</td>
+  </tr>
+  <tr>
+      <td><span style="color: white;"><b>10</b></span></td>
+      <td><a href="Diamante.jpg" title="Diamante" class="thumbnail"></a></td>
+      <td>El material más duro en esta escala (rayado por otro diamante).</td>
+ </tr>
+ </table>
+ </body>
+ </html>
