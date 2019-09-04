@@ -95,22 +95,22 @@
       <td>Se puede rayar con una lija para el acero</td>
   </tr>
   <tr>
-      <td><span style="color: white;"><b>7</b></span></td>
+      <td><span style="color": white;"><b>7</b></span></td>
       <td><a href="Cuarzo.jpg" title="Cuarzo" class="thumbnail"></a></td>
       <td>Raya el vidrio</td>
   </tr>
   <tr>
-      <td><span style="color: white;"><b>8</b></span></td>
+      <td><span style="color": white;"><b>8</b></span></td>
       <td><a href="Topacio.jpg" title="Topacio" class="thumbnail"></a></td>
       <td>Rayado por herramientas de carburo de wolframio</td>
   </tr>
   <tr>
-      <td><span style="color: white;"><b>9</b></span></td>
+      <td><span style="color": white;"><b>9</b></span></td>
       <td><a href="Corindon.jpg" title="Corindón" class="thumbnail"></a></td>
       <td>Rayado por herramientas de carburo de silicio</td>
   </tr>
   <tr>
-      <td><span style="color: white;"><b>10</b></span></td>
+      <td><span style="color": white;"><b>10</b></span></td>
       <td><a href="Diamante.jpg" title="Diamante" class="thumbnail"></a></td>
       <td>El material más duro en esta escala (rayado por otro diamante).</td>
  </tr>
